@@ -13,6 +13,8 @@ body{
 	margin: 0px;
 	padding: 0px;
 	font-size: 15px;
+    background-color: #000;
+    color: #fff;
 }
 a, a:hover, a:focus{
 	text-decoration: none;
@@ -170,11 +172,12 @@ section.about-section {
 
 section.services-section {
     padding: 100px 0px 50px;
-    background: #efefef;
+    /* background: #efefef; */
 }
 
 .services-box {
     background: #FFF;
+    color: #000;
     padding: 30px;
     margin-bottom: 50px;
     text-align: center;
@@ -430,7 +433,7 @@ ul.meta li {
 
 .blog-box {
     padding: 20px;
-    box-shadow: 0px 0px 10px rgba(0,0,0,.11);
+    box-shadow: 0px 0px 10px #fff;
 
   
 }
