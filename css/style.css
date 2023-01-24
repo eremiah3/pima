@@ -97,7 +97,7 @@ header .navbar-expand-lg .navbar-nav .nav-link {
     background: rgb(0 0 0/ 91%);
 }
 .banner-text-wrap h1{
-	font-size:60px;
+	font: size 46px;
 	font-weight: 700;
 }
 
@@ -128,14 +128,17 @@ section.features-section {
 }
 .bg1 {
     background: #10285f;
+    height: 287px;
 }
 
 .bg2 {
     background: #0c2f7d;
+    height: 287px;
 }
 
 .bg3 {
     background: #1148c3;
+    height: 287px;
 }
 
 .features-box h3, .features-box p {
@@ -145,6 +148,7 @@ section.features-section {
 .features-box {
     padding: 40px;
 }
+
 
 
 
